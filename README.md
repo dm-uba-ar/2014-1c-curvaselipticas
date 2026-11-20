@@ -1,8 +1,4 @@
-# Aritmética de curvas elípticas — Primer cuatrimestre de 2014
-
-## Equipo docente
-
-- **Clases teóricas:** Ariel Pacetti
+# Curvaselipticas — Primer cuatrimestre de 2014
 
 ## Prácticas
 
@@ -12,13 +8,6 @@
 - [Práctica 3](practica3.pdf)
 - [Práctica 4](practica4.pdf)
 - [Práctica 5](practica5.pdf)
-
-## Bibliografía
-
-- Elliptic Curves, Milne ( link )
-- The Arithmethic of Elliptic Curves, J. Silverman
-- Rational Points on Elliptic Curves, J. Tate , J. Silverman
-- Elliptic Curves, W. Knapp
 
 ## Página original
 
